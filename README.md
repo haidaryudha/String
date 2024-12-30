@@ -1,10 +1,6 @@
 # String
 ### Penjelasan Lengkap Kode Validasi Formulir
 
-Kode program di atas merupakan implementasi sederhana untuk memvalidasi data yang diinput oleh pengguna. Data yang divalidasi meliputi **nama lengkap**, **nomor telepon**, dan **email**. Berikut adalah penjelasan yang lebih rinci dan mendalam tentang setiap bagian kode:
-
----
-
 ### 1. Import Modul
 
 ```python
